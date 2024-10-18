@@ -6,7 +6,7 @@
 - basic spam control, users cannot CrossPost the same post within a time frame [IE. Hour, Day, Ect...]
 
 ---
-<p align=center> [instal Guide](https://github.com/CNC-Flare/CrossPost-Auth/blob/main/Install%20Guid.md) </p>
+### <p align=center> [instal Guide](https://github.com/CNC-Flare/CrossPost-Auth/blob/main/Install%20Guid.md) </p>
 
 ---
 ## Crosspost-Auth: Defualt Settings  
