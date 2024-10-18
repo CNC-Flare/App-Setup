@@ -6,7 +6,8 @@
 - basic spam control, users cannot CrossPost the same post within a time frame [IE. Hour, Day, Ect...]
 
 ---
-    [instal Guide](https://github.com/CNC-Flare/CrossPost-Auth/blob/main/Install%20Guid.md)
+<p align=center> [instal Guide](https://github.com/CNC-Flare/CrossPost-Auth/blob/main/Install%20Guid.md) </p>
+
 ---
 ## Crosspost-Auth: Defualt Settings  
 - Uses Reddit Wiki To House A List of Users Allowed to Cross-Post:  
